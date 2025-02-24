@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ntis-website/static/css/main.507b79ed.css",
+    "main.js": "/ntis-website/static/js/main.251e1100.js",
+    "index.html": "/ntis-website/index.html",
+    "main.507b79ed.css.map": "/ntis-website/static/css/main.507b79ed.css.map",
+    "main.251e1100.js.map": "/ntis-website/static/js/main.251e1100.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.507b79ed.css",
+    "static/js/main.251e1100.js"
+  ]
+}
